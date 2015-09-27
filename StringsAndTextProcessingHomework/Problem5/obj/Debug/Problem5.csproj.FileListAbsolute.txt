@@ -1,0 +1,5 @@
+G:\Visual Studio Trash\StringsAndTextProcessingHomework\Problem5\bin\Debug\Problem5.exe.config
+G:\Visual Studio Trash\StringsAndTextProcessingHomework\Problem5\bin\Debug\Problem5.exe
+G:\Visual Studio Trash\StringsAndTextProcessingHomework\Problem5\bin\Debug\Problem5.pdb
+G:\Visual Studio Trash\StringsAndTextProcessingHomework\Problem5\obj\Debug\Problem5.exe
+G:\Visual Studio Trash\StringsAndTextProcessingHomework\Problem5\obj\Debug\Problem5.pdb

@@ -1,0 +1,6 @@
+G:\Visual Studio Trash\MyultidimensioanlArraysHomeWork\Problem1.1\bin\Debug\Problem1.1.exe.config
+G:\Visual Studio Trash\MyultidimensioanlArraysHomeWork\Problem1.1\bin\Debug\Problem1.1.exe
+G:\Visual Studio Trash\MyultidimensioanlArraysHomeWork\Problem1.1\bin\Debug\Problem1.1.pdb
+G:\Visual Studio Trash\MyultidimensioanlArraysHomeWork\Problem1.1\obj\Debug\Problem1.1.csprojResolveAssemblyReference.cache
+G:\Visual Studio Trash\MyultidimensioanlArraysHomeWork\Problem1.1\obj\Debug\Problem1.1.exe
+G:\Visual Studio Trash\MyultidimensioanlArraysHomeWork\Problem1.1\obj\Debug\Problem1.1.pdb

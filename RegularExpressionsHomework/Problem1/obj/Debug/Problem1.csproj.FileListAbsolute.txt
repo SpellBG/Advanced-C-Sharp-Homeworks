@@ -1,0 +1,6 @@
+G:\Visual Studio Trash\RegularExpressionsHomework\Problem1\bin\Debug\Problem1.exe.config
+G:\Visual Studio Trash\RegularExpressionsHomework\Problem1\bin\Debug\Problem1.exe
+G:\Visual Studio Trash\RegularExpressionsHomework\Problem1\bin\Debug\Problem1.pdb
+G:\Visual Studio Trash\RegularExpressionsHomework\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+G:\Visual Studio Trash\RegularExpressionsHomework\Problem1\obj\Debug\Problem1.exe
+G:\Visual Studio Trash\RegularExpressionsHomework\Problem1\obj\Debug\Problem1.pdb

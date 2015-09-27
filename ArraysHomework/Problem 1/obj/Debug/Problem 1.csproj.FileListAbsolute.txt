@@ -1,0 +1,6 @@
+c:\users\hell\documents\visual studio 2013\Projects\ArraysHomework\Problem 1\bin\Debug\Problem 1.exe.config
+c:\users\hell\documents\visual studio 2013\Projects\ArraysHomework\Problem 1\bin\Debug\Problem 1.exe
+c:\users\hell\documents\visual studio 2013\Projects\ArraysHomework\Problem 1\bin\Debug\Problem 1.pdb
+c:\users\hell\documents\visual studio 2013\Projects\ArraysHomework\Problem 1\obj\Debug\Problem 1.csprojResolveAssemblyReference.cache
+c:\users\hell\documents\visual studio 2013\Projects\ArraysHomework\Problem 1\obj\Debug\Problem 1.exe
+c:\users\hell\documents\visual studio 2013\Projects\ArraysHomework\Problem 1\obj\Debug\Problem 1.pdb

@@ -1,0 +1,5 @@
+G:\Visual Studio Trash\MyultidimensioanlArraysHomeWork\Problem7\bin\Debug\Problem7.exe.config
+G:\Visual Studio Trash\MyultidimensioanlArraysHomeWork\Problem7\bin\Debug\Problem7.exe
+G:\Visual Studio Trash\MyultidimensioanlArraysHomeWork\Problem7\bin\Debug\Problem7.pdb
+G:\Visual Studio Trash\MyultidimensioanlArraysHomeWork\Problem7\obj\Debug\Problem7.exe
+G:\Visual Studio Trash\MyultidimensioanlArraysHomeWork\Problem7\obj\Debug\Problem7.pdb

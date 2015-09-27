@@ -1,0 +1,5 @@
+G:\Visual Studio Trash\RegularExpressionsHomework\Problem3\bin\Debug\Problem3.exe.config
+G:\Visual Studio Trash\RegularExpressionsHomework\Problem3\bin\Debug\Problem3.exe
+G:\Visual Studio Trash\RegularExpressionsHomework\Problem3\bin\Debug\Problem3.pdb
+G:\Visual Studio Trash\RegularExpressionsHomework\Problem3\obj\Debug\Problem3.exe
+G:\Visual Studio Trash\RegularExpressionsHomework\Problem3\obj\Debug\Problem3.pdb
